@@ -1,0 +1,23 @@
+.card{
+	border: 1px solid lightgray; 
+	box-shadow: 0 5px 5px grey;}
+	
+.card:hover{box-shadow: 0 10px 20px grey;}
+
+.card-title{
+	font-family: Halo Sans;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.img{
+	object-fit:cover
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

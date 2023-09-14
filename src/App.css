@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  margin: auto;
+}
+
+.trimMargin{
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}

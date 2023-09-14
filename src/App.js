@@ -6,7 +6,7 @@ import WeatherCard from './components/WeatherCard';
 import './App.css';
 
 function App() {
-  //State to manage weather data with default values, updated when API retrieves data
+  //State to manage weather data with default values, updated when API retrieves data.
   const [weatherData, setWeatherData] = useState(
       {location: '...', temp: '...', weatherDesc: '...', uvIndex: '...'}
   );
